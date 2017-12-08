@@ -32,7 +32,7 @@ and give pointers to future research based on this dataset.
 
 ### Image displaying class examples
 
-[sadf](asdf "asdf")
+![_config.yml]({{ site.baseurl }}/images/overview.png)
 
 
 
