@@ -26,15 +26,10 @@ sion datasets, as well as with other OMR datasets. Finally,
 we provide baseline performances for object classification
 and give pointers to future research based on this dataset.
 
-- [tech report]({{ site.baseurl }}/images/config.png)
+- [tech report]({{ site.baseurl }}/papers/preprint_deepscores.pdf)
 - [detection data](asd)
 - [classification data](asd)
 
 ### Image displaying class examples
 
 ![_config.yml]({{ site.baseurl }}/images/overview.png)
-
-
-
-
-
