@@ -26,7 +26,7 @@ sion datasets, as well as with other OMR datasets. Finally,
 we provide baseline performances for object classification
 and give pointers to future research based on this dataset.
 
-- [tech report](asd)
+- [tech report]({{ site.baseurl }}/images/config.png)
 - [detection data](asd)
 - [classification data](asd)
 
