@@ -9,6 +9,7 @@ We present the DeepScores dataset with the goal of ad-
 vancing the state-of-the-art in small objects recognition,
 and by placing the question of object recognition in the
 context of scene understanding. DeepScores contains high
+
 quality images of musical scores, partitioned into 300 0 000
 sheets of written music that contain symbols of different
 shapes and sizes. With close to a hundred millions of small
@@ -25,8 +26,15 @@ sion datasets, as well as with other OMR datasets. Finally,
 we provide baseline performances for object classification
 and give pointers to future research based on this dataset.
 
-*[Deepscores](asd)
-*[Deepscores](asd)
-*[Deepscores](asd)
+- [tech report](asd)
+- [detection data](asd)
+- [classification data](asd)
+
+### Image displaying class examples
+
+[sadf](asdf "asdf")
+
+
+
 
 
