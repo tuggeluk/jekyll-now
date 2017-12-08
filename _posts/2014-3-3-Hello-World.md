@@ -24,3 +24,7 @@ SUN, SVHN, ImageNet, MS-COCO, smaller computer vi-
 sion datasets, as well as with other OMR datasets. Finally,
 we provide baseline performances for object classification
 and give pointers to future research based on this dataset.
+
+-_tech report_ [Deepscores](asd)
+-_detection dataset_ [Deepscores](asd)
+-_classification data_ [Deepscores](asd)
