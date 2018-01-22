@@ -27,8 +27,10 @@ we provide baseline performances for object classification
 and give pointers to future research based on this dataset.
 
 - [tech report]({{ site.baseurl }}/papers/preprint_deepscores.pdf)
-- [detection data](asd)
-- [classification data](asd)
+- [detection data](https://drive.google.com/open?id=1KFxqi0rO-bJrd03rLk87fF1iOmnjpaoG)
+- [classification data](https://drive.google.com/open?id=1EQLnz3-gfBpK-WWhAp2IyJLfI_1jjEr-)
+- [Tensorflow Implementations](https://github.com/tuggeluk/DeepScoresExamples)
+
 
 ### Image displaying class examples
 
