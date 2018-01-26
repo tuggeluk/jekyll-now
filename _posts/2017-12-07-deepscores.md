@@ -28,7 +28,7 @@ and give pointers to future research based on this dataset.
 
 - [tech report]({{ site.baseurl }}/papers/preprint_deepscores.pdf)
 - [detection data](https://drive.google.com/open?id=1KFxqi0rO-bJrd03rLk87fF1iOmnjpaoG)
-- [classification data](https://drive.google.com/open?id=1EQLnz3-gfBpK-WWhAp2IyJLfI_1jjEr-)
+- [classification data](https://drive.google.com/open?id=1bdBrX0dAX734I3MA_6-wH_-N2eqq_tf_)
 - [Tensorflow Implementations](https://github.com/tuggeluk/DeepScoresExamples)
 
 
