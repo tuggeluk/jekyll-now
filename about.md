@@ -11,6 +11,5 @@ This site serves as a blog where I write about my work and other stuff that inte
 
 The main driver behind my work is the ambition to find the simplest explanations for things that appear to be magic when left unstudied.
 
-### Contact me
-
+I can be reached at
 [tugg@zhaw.ch](mailto:tugg@zhaw.ch)
