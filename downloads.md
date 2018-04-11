@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads
-permalink: /about/
+permalink: /downloads/
 published: true
 ---
 ## DeepScores
