@@ -25,7 +25,7 @@ published: true
 
 
 
-<table>
+<table cellpadding="5">
 <colgroup>
 <col width="60%" />
 <col width="40%" />
@@ -33,7 +33,6 @@ published: true
 <thead>
 <tr class="header">
 <th markdown="span">**DeepScores and Deep Watershed Detection: current state and open issues**</th>
-
 </tr>
 </thead>
 <tbody>
