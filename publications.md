@@ -5,12 +5,6 @@ permalink: /pub/
 published: true
 ---
 
-<style>
-div {
-    padding: 70px;
-    border: 1px solid #4CAF50;
-}
-</style>
 ## My Papers
 
 **DeepScores -- A Dataset for Segmentation, Detection and Classification of Tiny Objects** 
