@@ -1,3 +1,10 @@
+---
+layout: page
+title: extended_syms_list
+permalink: /deepscores_syms_list/
+published: true
+---
+
 ## DeepScores extended symbols list
 
 Below you find a table of all currently supported symbols in DeepScores extended.
