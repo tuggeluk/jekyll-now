@@ -21,7 +21,7 @@ There is an updated version of DeepScores containing annotations for a larger nu
 ### DeepScores Classification
 Archives of pre-segmented images to train an object classifier on DeepScores.  
 [DeepScores-classification](https://repository.cloudlab.zhaw.ch/artifactory/deepscores/classification/DeepScores2017_classification.zip)  
-[DeepScores-classification-extended](asdfasdf)
+
 
 
 ### DeepScores Examples
