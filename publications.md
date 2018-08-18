@@ -22,36 +22,14 @@ published: true
   
 
 ## Co-Authorships
-
-
-
-<table cellpadding="5" border="1">
-
-<thead>
-<tr class="header">
-<th markdown="span">**DeepScores and Deep Watershed Detection: current state and open issues**</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  
- <td markdown="span"  align="bottom"> <img src="{{site.baseurl}}/scan.png" width="200px">
-</td>
-
-<td markdown="span">This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.</td>
-</tr>
-<tr>
-<td markdown="span" align="right"> To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)</td>
-<td markdown="span" align="left"> [Tech Report](asdfsadf)
-</td>
-</tr>
-</tbody>
-</table>
-
-<div><p style="float: left;"><img src="{{site.baseurl}}/scan.png"  width="200px" border="1px"></p>
-<p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
-
+**DeepScores and Deep Watershed Detection: current state and open issues**
+<div><p style="float: left;"><img src="{{site.baseurl}}/scan.png"  width="250px" border="1px"></p>
+<p>
+This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.
+ </p>
+</div>  
+To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)  
+[Tech Report](asdfsadf)
 
 
 
