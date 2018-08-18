@@ -8,7 +8,7 @@ published: true
 ## My Papers
 
 **DeepScores -- A Dataset for Segmentation, Detection and Classification of Tiny Objects** 
-<div><p style="float: left;"><img src="{{site.baseurl}}/ds_overview.png"  width="250px" border="1px"></p>
+<div><p style="float: left; font-size: 13px;"><img src="{{site.baseurl}}/ds_overview.png"  width="250px" border="1px"></p>
 <p>
 We present the DeepScores dataset with the goal of advancing the state-of-the-art in small object recognition by placing the question of object recognition in the context of scene understanding. DeepScores contains high quality images of musical scores, partitioned into $300,000$ sheets of written music that contain symbols of different shapes and sizes. With close to a hundred million small objects, this makes our dataset not only unique, but also the largest public dataset. DeepScores comes with ground truth for object classification, detection and semantic segmentation. DeepScores thus poses a relevant challenge for computer vision in general, and optical music recognition (OMR) research in particular. We present a detailed statistical analysis of the dataset, comparing it with other computer vision datasets like PASCAL VOC, SUN, SVHN, ImageNet, MS-COCO, as well as with other OMR datasets. Finally, we provide baseline performances for object classification, intuition for the inherent difficulty that DeepScores poses to state-of-the-art object detectors like YOLO or R-CNN, and give pointers to future research based on this dataset.
  </p>
@@ -37,6 +37,3 @@ This paper gives an overview of our current Optical Music Recognition (OMR) rese
 </div>  
 To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)  
 [Tech Report](asdfsadf)
-
-
-
