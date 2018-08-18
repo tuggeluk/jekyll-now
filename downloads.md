@@ -4,7 +4,6 @@ title: Downloads
 permalink: /downloads/
 published: true
 ---
-## Downloads
 Downloads for all the avialable DeepScores ressources. Please report any bugs or problems with the download to [tugg@zhaw.ch](mailto:tugg@zhaw.ch).
 
 ### DeepScores
@@ -25,5 +24,3 @@ Archives of pre-segmented images to train an object classifier on DeepScores.
 
 ### DeepScores Examples
 You can find some basic examples on how to use DeepScores [here](https://github.com/tuggeluk/DeepScoresExamples).
-
-
