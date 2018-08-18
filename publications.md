@@ -25,7 +25,7 @@ published: true
 
 
 
-<table cellpadding="5">
+<table cellpadding="5" border="1">
 <colgroup>
 <col width="60%" />
 <col width="40%" />
@@ -37,9 +37,12 @@ published: true
 </thead>
 <tbody>
 <tr>
-<td markdown="span">This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.</td>
-<td markdown="span"  align="bottom"> <img src="{{site.baseurl}}/scan.png" width="200px">
+  
+ <td markdown="span"  align="bottom"> <img src="{{site.baseurl}}/scan.png" width="200px">
 </td>
+
+<td markdown="span">This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.</td>
+
 </tr>
 <tr>
 <td markdown="span" align="right"> To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)</td>
