@@ -15,7 +15,7 @@ Optical Music Recognition (OMR) is an important and challenging area within musi
 </div>  
 
 To appear at [ISMIR 2018](http://ismir2018.ircam.fr/)    
-[Tech Report](asdfsadf)  
+[Tech Report]({{site.baseurl}}/papers/DWD_preprint.pdf)  
 
 
 
@@ -27,7 +27,7 @@ We present the DeepScores dataset with the goal of advancing the state-of-the-ar
  </p>
 </div>  
 To appear at [ICPR 2018](http://www.icpr2018.org/)     
-[Tech Report](asdfsadf)  
+[Tech Report]({{site.baseurl}}/papers/preprint_deepscores.pdf)  
 
 ## Co-Authorships
 **DeepScores and Deep Watershed Detection: current state and open issues**
@@ -37,4 +37,4 @@ This paper gives an overview of our current Optical Music Recognition (OMR) rese
  </p>
 </div>  
 To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)  
-[Tech Report](asdfsadf)
+[Tech Report]({{site.baseurl}}/papers/WoRMS_preprint.pdf)  
