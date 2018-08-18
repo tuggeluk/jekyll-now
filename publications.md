@@ -39,7 +39,7 @@ published: true
 <tbody>
 <tr>
 <td markdown="span">This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.</td>
-<td markdown="span"  align="bottom"> <img src="{{site.baseurl}}/scan.png" style="width: 130px">
+<td markdown="span"  align="bottom"> <img src="{{site.baseurl}}/scan.png" width="130px">
 </td>
 </tr>
 <tr>
