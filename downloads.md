@@ -23,7 +23,6 @@ Archives of pre-segmented images to train an object classifier on DeepScores.
 [DeepScores-classification](https://repository.cloudlab.zhaw.ch/artifactory/deepscores/classification/DeepScores2017_classification.zip)  
 
 
-
 ### DeepScores Examples
 You can find some basic examples on how to use DeepScores [here](https://github.com/tuggeluk/DeepScoresExamples).
 
