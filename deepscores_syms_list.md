@@ -1,6 +1,5 @@
 ---
 layout: page
-title: extended_syms_list
 permalink: /deepscores_syms_list/
 published: true
 ---
@@ -169,3 +168,4 @@ Below you find a table of all currently supported symbols in DeepScores extended
 | 157 | combined bounding box for full Time sig    |
 | 158 | combined staff                             |
 | 159 | Ottava Bracket                             |
+|-----|--------------------------------------------|
