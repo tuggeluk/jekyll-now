@@ -24,30 +24,20 @@ published: true
 ## Co-Authorships
 **DeepScores and Deep Watershed Detection: current state and open issues**
 
-|This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.| ![scan.png]({{site.baseurl}}/scan.png)
-|
-|---|---|
-| To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)  | [Tech Report](asdfsadf)  |
-
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="60%" />
+<col width="40%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
+
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.</td>
+<td markdown="span"> ![scan.png]({{site.baseurl}}/scan.png)</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span"> To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)</td>
+<td markdown="span"> [Tech Report](asdfsadf)
 </td>
 </tr>
 </tbody>
