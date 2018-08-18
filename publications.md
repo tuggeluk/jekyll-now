@@ -48,6 +48,10 @@ published: true
 </tbody>
 </table>
 
+<div><p style="float: left;"><img src="{{site.baseurl}}/scan.png"  width="200px" border="1px"></p>
+<p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
+
 
 
 
