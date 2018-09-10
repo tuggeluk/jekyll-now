@@ -7,7 +7,7 @@ published: true
 
 ## pasdf
 
-<div style="padding: 30px; background-color: salmon; width: 400px;display: table;">
+<div style="padding: 30px; background-color: light-grey; width: 400px;display: table;">
     <span style="vertical-align: middle; display: table-cell;">
     <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="http://placehold.it/50x50" />
     </span>
