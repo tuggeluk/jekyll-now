@@ -8,7 +8,7 @@ published: true
 ## My Papers
 
 **Deep Watershed Detector for Music Object Recognition**
-<div style="padding: 10px; background-color: light-grey; width: 1000px;display: table;">
+<div style="padding: 30px; background-color: light-grey; width: 1000px;display: table;">
     <span style="vertical-align: middle; display: table-cell;">
     <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="{{site.baseurl}}/overlayed.png"  width="2000"  />
     </span>
