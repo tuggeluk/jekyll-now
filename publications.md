@@ -44,7 +44,7 @@ To appear at [ICPR 2018](http://www.icpr2018.org/)
 **DeepScores and Deep Watershed Detection: current state and open issues**
 <div style="padding: 0px; background-color: salmon; width: 1000px;display: table;">
     <span style="vertical-align: middle; display: table-cell;">
-    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="{{site.baseurl}}/scan.png"  width="2000"  />
+    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="{{site.baseurl}}/scan.png"  width="1000px"  />
     </span>
 <span style="vertical-align: middle; display: table-cell; padding: 5px;">
 This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.
