@@ -31,7 +31,7 @@ To appear at [ISMIR 2018](http://ismir2018.ircam.fr/)
 **DeepScores -- A Dataset for Segmentation, Detection and Classification of Tiny Objects** 
 <div style="padding: 0px; background-color: light-grey; width: 1000px;display: table;">
     <span style="vertical-align: middle; display: table-cell;">
-    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="{{site.baseurl}}/ds_overview.png"  width="2000"  />
+    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="{{site.baseurl}}/ds_overview.png"  width="2500"  />
     </span>
 <span style="vertical-align: middle; display: table-cell; padding: 5px;">
 We present the DeepScores dataset with the goal of advancing the state-of-the-art in small object recognition by placing the question of object recognition in the context of scene understanding. DeepScores contains high quality images of musical scores, partitioned into $300,000$ sheets of written music that contain symbols of different shapes and sizes. With close to a hundred million small objects, this makes our dataset not only unique, but also the largest public dataset. DeepScores comes with ground truth for object classification, detection and semantic segmentation. DeepScores thus poses a relevant challenge for computer vision in general, and optical music recognition (OMR) research in particular. We present a detailed statistical analysis of the dataset, comparing it with other computer vision datasets like PASCAL VOC, SUN, SVHN, ImageNet, MS-COCO, as well as with other OMR datasets. Finally, we provide baseline performances for object classification, intuition for the inherent difficulty that DeepScores poses to state-of-the-art object detectors like YOLO or R-CNN, and give pointers to future research based on this dataset.
@@ -49,5 +49,6 @@ To appear at [ICPR 2018](http://www.icpr2018.org/)
 <span style="vertical-align: middle; display: table-cell; padding: 5px;">
 This paper gives an overview of our current Optical Music Recognition (OMR) research. We recently released the OMR data set DeepScores  as well as the object detection method Deep Watershed Detector. We are currently taking some additional steps to improve both of them. Here we summarize current and future efforts, aimed at improving usefulness on real-world tasks and tackling extreme class imbalance.
 </span>
+</div>  
 To appear at [WoRMS 2018](https://sites.google.com/view/worms2018)  
 [Tech Report]({{site.baseurl}}/papers/WoRMS_preprint.pdf)  
