@@ -5,7 +5,39 @@ permalink: /pub/
 published: true
 ---
 
+## pasdf
+
+<div>
+    <span><img src="http://placehold.it/50x50" /></span>
+<span>
+    here is some text to align with an image
+    here is some text to align with an image
+    here is some text to align with an image
+    here is some text to align with an image
+    here is some text to align with an image
+    here is some text to align with an image
+    here is some text to align with an image
+    here is some text to align with an image
+</span>
+</div>
+
+div {
+    padding: 30px;
+    background-color: salmon;
+    width: 400px;
+    display: table;
+}
+img {
+    vertical-align: middle;
+    display: table-cell;
+    margin-right: 1em;
+}
+span {
+    vertical-align: middle;
+    display: table-cell;
+}
 ## My Papers
+
 
 **Deep Watershed Detector for Music Object Recognition**
 <div><p style="float: left;"><img src="{{site.baseurl}}/overlayed.png"  width="250px" border="1px"></p>
