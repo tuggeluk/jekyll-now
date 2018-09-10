@@ -5,36 +5,26 @@ permalink: /pub/
 published: true
 ---
 
-## pasdf
+## My Papers
 
+**Deep Watershed Detector for Music Object Recognition**
 <div style="padding: 30px; background-color: light-grey; width: 400px;display: table;">
     <span style="vertical-align: middle; display: table-cell;">
-    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="http://placehold.it/50x50" />
+    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="{{site.baseurl}}/overlayed.png" />
     </span>
 <span style="vertical-align: middle; display: table-cell;">
-    here is some text to align with an image
-    here is some text to align with an image
-    here is some text to align with an image
-    here is some text to align with an image
-    here is some text to align with an image
-    here is some text to align with an image
-    here is some text to align with an image
-    here is some text to align with an image
+Optical Music Recognition (OMR) is an important and challenging area within music information retrieval, the accurate detection of music symbols in digital images is a core functionality of any OMR pipeline. In this paper, we introduce a novel object detection method, based on synthetic energy maps and the watershed transform, called Deep Watershed Detector (DWD). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD's ability to work with synthetic scores equally well as with handwritten music.
 </span>
 </div>
 
-## My Papers
-
-
-**Deep Watershed Detector for Music Object Recognition**
-<div><p style="float: left;"><img src="{{site.baseurl}}/overlayed.png"  width="250px" border="1px"></p>
-<p style="font-size: 13px;">
-Optical Music Recognition (OMR) is an important and challenging area within music information retrieval, the accurate detection of music symbols in digital images is a core functionality of any OMR pipeline. In this paper, we introduce a novel object detection method, based on synthetic energy maps and the watershed transform, called Deep Watershed Detector (DWD). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD's ability to work with synthetic scores equally well as with handwritten music.
- </p>
-</div>  
-
 To appear at [ISMIR 2018](http://ismir2018.ircam.fr/)    
 [Tech Report]({{site.baseurl}}/papers/DWD_preprint.pdf)  
+
+
+
+
+
+
 
 
 
