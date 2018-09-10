@@ -7,9 +7,11 @@ published: true
 
 ## pasdf
 
-<div>
-    <span><img src="http://placehold.it/50x50" /></span>
-<span>
+<div style="padding: 30px; background-color: salmon; width: 400px;display: table;">
+    <span style="vertical-align: middle; display: table-cell;">
+    <img style="vertical-align: middle; display: table-cell; margin-right: 1em;" src="http://placehold.it/50x50" />
+    </span>
+<span style="vertical-align: middle; display: table-cell;">
     here is some text to align with an image
     here is some text to align with an image
     here is some text to align with an image
@@ -21,21 +23,6 @@ published: true
 </span>
 </div>
 
-div {
-    padding: 30px;
-    background-color: salmon;
-    width: 400px;
-    display: table;
-}
-img {
-    vertical-align: middle;
-    display: table-cell;
-    margin-right: 1em;
-}
-span {
-    vertical-align: middle;
-    display: table-cell;
-}
 ## My Papers
 
 
