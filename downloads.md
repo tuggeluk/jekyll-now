@@ -11,7 +11,7 @@ The original DeepScores features fixed-shape symbols only the complete list can 
 [DeepScores](https://repository.cloudlab.zhaw.ch/artifactory/deepscores/archives/2017/)
 
 ### Dense
-DeepScores-dense is a subset of the whole DeepScores dataset containing only about 2000 pages but retaining the same amout of rare symbols as the full archive.  
+DeepScores-dense is a subset of the whole DeepScores dataset containing only about 2000 pages but retaining the same amout of rare symbols as the full archive. (i.e. most files in the original DeepScores are very similar)
 [DeepScores-dense](https://repository.cloudlab.zhaw.ch/artifactory/deepscores/deep_scores_dense.zip)
 
 ### Classification
