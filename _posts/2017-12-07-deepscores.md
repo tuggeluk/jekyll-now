@@ -26,10 +26,9 @@ sion datasets, as well as with other OMR datasets. Finally,
 we provide baseline performances for object classification
 and give pointers to future research based on this dataset.
 
-- [tech report]({{ site.baseurl }}/papers/preprint_deepscores.pdf)
-- [detection data](https://drive.google.com/open?id=1KFxqi0rO-bJrd03rLk87fF1iOmnjpaoG)
-- [classification data](https://drive.google.com/open?id=1bdBrX0dAX734I3MA_6-wH_-N2eqq_tf_)
-- [Tensorflow Implementations](https://github.com/tuggeluk/DeepScoresExamples)
+- [Tech Report]({{ site.baseurl }}/papers/preprint_deepscores.pdf)
+- [Dataset Downloads]({{ site.baseurl }}/downloads/)
+- [Tensorflow Examples](https://github.com/tuggeluk/DeepScoresExamples)
 
 
 ### Image displaying class examples
