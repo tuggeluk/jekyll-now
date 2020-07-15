@@ -1,3 +1,9 @@
+---
+layout: page
+title: DeepScoresV2 Preview
+permalink: /dsv2_preview/
+published: true
+---
 ## DeepScoresV2 Preview
 
 This page is intended for the reviewers of _"The DeepScoreV2 Dataset and Benchmark for Music Object Detection"_ only. 
